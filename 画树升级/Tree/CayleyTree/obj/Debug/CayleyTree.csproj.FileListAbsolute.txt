@@ -1,0 +1,12 @@
+D:\01_Projects\CayleyTree\CayleyTree\obj\Debug\CayleyTree.csprojResolveAssemblyReference.cache
+D:\01_Projects\CayleyTree\CayleyTree\obj\Debug\CayleyTree.Properties.Resources.resources
+D:\01_Projects\CayleyTree\CayleyTree\obj\Debug\CayleyTree.csproj.GenerateResource.Cache
+D:\01_Projects\CayleyTree\CayleyTree\bin\Debug\CayleyTree.exe.config
+D:\01_Projects\CayleyTree\CayleyTree\bin\Debug\CayleyTree.exe
+D:\01_Projects\CayleyTree\CayleyTree\bin\Debug\CayleyTree.pdb
+D:\01_Projects\CayleyTree\CayleyTree\obj\Debug\CayleyTree.exe
+D:\01_Projects\CayleyTree\CayleyTree\obj\Debug\CayleyTree.pdb
+D:\01_Projects\CayleyTree\CayleyTree\obj\Debug\CayleyTree.ControlPanel.resources
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\Tree\CayleyTree\bin\Debug\CayleyTree.exe.config
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\Tree\CayleyTree\obj\Debug\CayleyTree.exe
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\Tree\CayleyTree\obj\Debug\CayleyTree.pdb

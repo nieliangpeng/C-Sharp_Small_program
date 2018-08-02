@@ -1,0 +1,25 @@
+D:\vc++ test\TESTCSHARP3\TESTCSHARP3\bin\Debug\TESTCSHARP3.exe.config
+D:\vc++ test\TESTCSHARP3\TESTCSHARP3\obj\Debug\TESTCSHARP3.csprojResolveAssemblyReference.cache
+D:\vc++ test\TESTCSHARP3\TESTCSHARP3\obj\Debug\TESTCSHARP3.Properties.Resources.resources
+D:\vc++ test\TESTCSHARP3\TESTCSHARP3\obj\Debug\TESTCSHARP3.csproj.GenerateResource.Cache
+D:\vc++ test\TESTCSHARP3\TESTCSHARP3\bin\Debug\TESTCSHARP3.exe
+D:\vc++ test\TESTCSHARP3\TESTCSHARP3\bin\Debug\TESTCSHARP3.pdb
+D:\vc++ test\TESTCSHARP3\TESTCSHARP3\obj\Debug\TESTCSHARP3.exe
+D:\vc++ test\TESTCSHARP3\TESTCSHARP3\obj\Debug\TESTCSHARP3.pdb
+D:\vc++ test\TESTCSHARP3\TESTCSHARP3\obj\Debug\TESTCSHARP3.ControlPanel.resources
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\畫樹\TESTCSHARP3\bin\Debug\TESTCSHARP3.exe.config
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\畫樹\TESTCSHARP3\obj\Debug\TESTCSHARP3.exe
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\畫樹\TESTCSHARP3\obj\Debug\TESTCSHARP3.pdb
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\畫樹\TESTCSHARP3\bin\Debug\TESTCSHARP3.exe
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\畫樹\TESTCSHARP3\bin\Debug\TESTCSHARP3.pdb
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\畫樹\TESTCSHARP3\bin\Debug\mscorlib.dll
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\畫樹\TESTCSHARP3\bin\Debug\zh-Hans\mscorlib.resources.dll
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\畫樹\TESTCSHARP3\bin\Debug\normidna.nlp
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\畫樹\TESTCSHARP3\bin\Debug\normnfc.nlp
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\畫樹\TESTCSHARP3\bin\Debug\normnfd.nlp
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\畫樹\TESTCSHARP3\bin\Debug\normnfkc.nlp
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\畫樹\TESTCSHARP3\bin\Debug\normnfkd.nlp
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\畫樹\TESTCSHARP3\obj\Debug\TESTCSHARP3.csprojResolveAssemblyReference.cache
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\畫樹\TESTCSHARP3\obj\Debug\TESTCSHARP3.ControlPanel.resources
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\畫樹\TESTCSHARP3\obj\Debug\TESTCSHARP3.Properties.Resources.resources
+D:\大学学习资料\大二第一学期\c#\下载的课上代码\畫樹\TESTCSHARP3\obj\Debug\TESTCSHARP3.csproj.GenerateResource.Cache
